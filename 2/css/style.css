@@ -1,0 +1,172 @@
+html {
+    box-sizing:border-box;
+    font-size: 10px;
+    
+  }
+
+body{
+    background-color: rgb(33, 34, 38);
+}
+
+.header{
+    display: flex;
+    background-color: rgb(48, 49, 54);
+    flex-direction: row-reverse;
+    height: 60px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    margin: 10px;
+    padding: 10px;
+    color: aliceblue;
+    font-weight: normal;
+    display: flex;
+    font-size: 20px;
+    
+}
+
+.logo{
+    padding-right: 950px;
+    color: #646fd2;
+    font-weight:bold;
+}
+    
+.wrapper {
+    height: 200px;
+    width: 150px;
+    background-color: rgb(48, 49, 54);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    margin: 10px;
+    padding-top: 15px;
+}
+
+h3 {
+    margin: 10px;
+    padding: 10px;
+    color: aliceblue;
+    font-weight: normal;
+    display: flex;
+    font-size: 20px;
+}
+.menu {
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 230px;
+    text-align: center;
+    background: #303136;
+    margin-left: 35px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #babbbf;
+    border-radius: 5px;
+  }
+  .menuB {
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 230px;
+    text-align: center;
+    background: #303136;
+    margin-left: 35px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #babbbf;
+    border-radius: 5px;
+  }
+  .flex {
+    display: flex;
+  }
+  .screen {
+    display: flex;
+    border-radius: 5px;
+    background:#303136;
+    margin-left: 25px;
+    margin-right:35px;
+    padding: 10px;
+  }
+   .img {
+    float: right;
+    margin: 20px;
+    border-radius: 6px;
+    background: #babbbf;
+    width: 400px;
+    height: 300px;
+   }
+   .txt {
+    width: fit-content;
+   font-weight: 600;
+   font-size: 25px;
+   margin-top: 50px;
+   color: #babbbf;
+   text-align: left;
+
+   }
+
+   .container {
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    margin-top: 50px;
+   }
+
+  .banner {
+    background: #303136;
+    margin-left: 35px;
+    border-radius: 5px;
+    
+  }
+  .banner2 {
+    width: 1020px;
+    padding: 20px;
+    display: flex;
+    background: #303136;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #303136;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+   
+ }
+  
+  .one , .two , .three , .bruh {
+    border-radius: 10px;
+    background: #babbbf;
+    margin: 20px;
+    width: 150px;
+    height: 70px;
+  }
+
+  .bottom {
+    height: 160px; 
+    width: 1140px;
+    padding: 20px;
+    display: flex;
+    background: #303136;
+    margin-left: 240px;
+    color: #303136;
+    border-radius: 5px;
+    justify-content: space-around;
+    align-items: center;
+   }
+  .ooo , .ttt , .ggg , .hhh {
+    border-radius: 5px;
+    background: #babbbf;
+    margin: 20px;
+    width: 150px;
+    height: 70px;
+  }
+  
+  
